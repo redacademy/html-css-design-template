@@ -2,7 +2,7 @@
 
 ----
 ## What is this portfolio template?
-The [portfolio template] (https://rcass.github.io/html-css-design-lesson/) is designed to practice and explore basic HTML and CSS.
+The [portfolio template](https://redacademy.github.io/html-css-design-template/) is designed to practice and explore basic HTML and CSS.
 
 The template is a guide meant for you to explore and change to ✨*make it your own*✨
 
@@ -24,18 +24,18 @@ The template is a guide meant for you to explore and change to ✨*make it your 
 #### Fonts
 * [Google Fonts](https://fonts.google.com/)
 
-#### Gradients:
+#### Gradients
 * [Blend](http://colinkeany.com/blend/)
 * [UI Gradients](https://uigradients.com)
 
-#### Lorem Ipsum:
+#### Lorem Ipsum
 * [Cupcake ipsum](http://www.cupcakeipsum.com)
 
 #### CSS
 * [Mozilla Developer Network: Beginners Guide to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 
 
-#### Learning More:
+#### Learning More
 * [Don't Fear the Internet](http://www.dontfeartheinternet.com/)
 
 
