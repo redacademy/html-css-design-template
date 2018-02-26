@@ -1,0 +1,120 @@
+/* general styles */
+body {
+  font-family: 'Nunito', sans-serif;
+}
+
+.container {
+  padding: 5% 10%;
+  text-align: center;
+}
+
+img {
+  border-radius: 50%;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+/* nav bar */
+nav {
+  background-color: white;
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  list-style-type: none;
+}
+
+nav li {
+  padding: 10px 30px;
+}
+
+nav a {
+  color: darkblue;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+nav a:hover {
+  color: deepskyblue;
+  text-decoration: line-through;
+}
+
+/* header section */
+header {
+  background: linear-gradient(180deg, rgb(255, 255, 255), rgb(205, 237, 254));
+  font-size: 25px;
+  padding: 15% 10%;
+}
+
+header h1 span {
+  color: darkblue;
+  font-family: 'Pacifico', cursive;
+  font-size: 90px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+header h1 span:hover {
+  color: palevioletred;
+}
+
+/* about me section */
+.about {
+  background:
+    linear-gradient(
+      rgba(255, 255, 255, 0.3),
+      rgba(255, 255, 255, 1)
+    ), url('../images/stars.png');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+/* my skills section */
+.skills ul {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.skills li {
+  background-color: paleturquoise;
+  box-shadow: 20px 20px 1px 2px rgba(255,214,255,1);
+  font-size: 35px;
+  margin: 1%;
+  padding: 3%;
+  text-align: center;
+}
+
+/* my work  */
+.work {
+  background-color:#BDD5FF;
+}
+
+.work .work-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 60px;
+}
+
+/* footer */
+.social {
+  display: flex;
+  justify-content: space-around;
+}
+
+footer .svg-inline--fa {
+  color: salmon;
+  font-size: 65px;
+}
+
+footer .svg-inline--fa:hover {
+  color: #3C778A;
+}
