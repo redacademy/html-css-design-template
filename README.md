@@ -43,5 +43,5 @@ The template is a guide meant for you to explore and change to ✨*make it your 
 
 
 ----
-## Created a master piece? 🎨 Share it!
+## Created a masterpiece? 🎨 Share it!
 If so, please fork this repo and add a link to this README.md or create an issue with the github page link and to have it added to the README.md.
