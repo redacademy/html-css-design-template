@@ -1,6 +1,6 @@
 /* general styles */
 body {
-  font-family: 'Nunito', sans-serif;
+  font-family: "Nunito", sans-serif;
 }
 
 .container {
@@ -14,6 +14,10 @@ img {
 
 h1 {
   font-size: 50px;
+}
+
+h2 {
+  font-size: 36px;
 }
 
 /* nav bar */
@@ -52,7 +56,7 @@ header {
 
 header h1 span {
   color: darkblue;
-  font-family: 'Pacifico', cursive;
+  font-family: "Pacifico", cursive;
   font-size: 90px;
   padding-left: 10px;
   padding-right: 10px;
@@ -64,11 +68,8 @@ header h1 span:hover {
 
 /* about me section */
 .about {
-  background:
-    linear-gradient(
-      rgba(255, 255, 255, 0.3),
-      rgba(255, 255, 255, 1)
-    ), url('../images/stars.png');
+  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 1)),
+    url("../images/stars.png");
   background-size: cover;
   background-attachment: fixed;
 }
@@ -85,7 +86,7 @@ header h1 span:hover {
 
 .skills li {
   background-color: paleturquoise;
-  box-shadow: 20px 20px 1px 2px rgba(255,214,255,1);
+  box-shadow: 20px 20px 1px 2px rgba(255, 214, 255, 1);
   font-size: 35px;
   margin: 1%;
   padding: 3%;
@@ -94,7 +95,7 @@ header h1 span:hover {
 
 /* my work  */
 .work {
-  background-color:#BDD5FF;
+  background-color: #bdd5ff;
 }
 
 .work .work-items {
@@ -116,5 +117,5 @@ footer .svg-inline--fa {
 }
 
 footer .svg-inline--fa:hover {
-  color: #3C778A;
+  color: #3c778a;
 }
